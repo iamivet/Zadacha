@@ -1,0 +1,12 @@
+C:\Users\STEM-1-4\Desktop\Ivet11a\Lab\lab-after\OrgVacationManager\Data\bin\Debug\Data.dll.config
+C:\Users\STEM-1-4\Desktop\Ivet11a\Lab\lab-after\OrgVacationManager\Data\bin\Debug\Data.dll
+C:\Users\STEM-1-4\Desktop\Ivet11a\Lab\lab-after\OrgVacationManager\Data\bin\Debug\Data.pdb
+C:\Users\STEM-1-4\Desktop\Ivet11a\Lab\lab-after\OrgVacationManager\Data\bin\Debug\EntityFramework.dll
+C:\Users\STEM-1-4\Desktop\Ivet11a\Lab\lab-after\OrgVacationManager\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\STEM-1-4\Desktop\Ivet11a\Lab\lab-after\OrgVacationManager\Data\bin\Debug\EntityFramework.xml
+C:\Users\STEM-1-4\Desktop\Ivet11a\Lab\lab-after\OrgVacationManager\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\STEM-1-4\Desktop\Ivet11a\Lab\lab-after\OrgVacationManager\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\STEM-1-4\Desktop\Ivet11a\Lab\lab-after\OrgVacationManager\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\STEM-1-4\Desktop\Ivet11a\Lab\lab-after\OrgVacationManager\Data\obj\Debug\Data.csproj.Up2Date
+C:\Users\STEM-1-4\Desktop\Ivet11a\Lab\lab-after\OrgVacationManager\Data\obj\Debug\Data.dll
+C:\Users\STEM-1-4\Desktop\Ivet11a\Lab\lab-after\OrgVacationManager\Data\obj\Debug\Data.pdb
